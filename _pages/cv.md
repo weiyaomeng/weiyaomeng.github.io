@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Nottingham, 2018-2023 (expected)
+* * M.S. in Advanced Software Engineering, Kings College London, 2016-2017
+* B.S. in Computer Science and Technolgy, Shandong Normal University, 2012-2016
 
-Work experience
+Employment
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,26 +26,11 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -56,4 +41,21 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Reviewer for
+----
+- IEEE Transactions on Evolutionary Computation
+- Engineering Applications of Artificial Intelligence
+- Journal of the Operational Research Society
+- Computers and Operations Research
+- PeerJ Computer Science
+- The Genetic and Evolutionary Computation Conference(GECCO’2023)
+
+Programme Committee Memberships
+----
+- Member of Task Force on [Automated Algorithm Design, Configuration and Selection (AADCS)](https://sites.google.com/view/ieeeaadcs) at IEEE Computational Intelligence Society.
+- Member of Association for Computing Machinery (ACM) SIGEVO.
+- Candidate Associate of The Operational Research Society
+
+Event Organisation
+----
+- Organiser of the [ML4VRP Competition](https://sites.google.com/view/ml4vrp?pli=1) of [The Genetic and Evolutionary Computation Conference(GECCO’2023)](https://gecco-2023.sigevo.org/HomePage) , Lisbon, Portugal, July 15th-19th, 2023.

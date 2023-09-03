@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The personal page of Weiyao Meng"
+title: "Weiyao Meng: About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,11 @@ I am currently a PhD student at the [Computational Optimization and Learning (CO
 Research
 ======
 
-My PhD mainly focuses on the automated design of local search algorithms for vehicle routing problems with machine learning techniques. My main research interests now focus on decision support for Smart Transport and Smart Energy with AI techniques.
+My PhD mainly focuses on the automated design of local search algorithms for vehicle routing problems with machine learning techniques. 
+- First supervisor: [Professor Rong Qu](http://www.cs.nott.ac.uk/~rxq)
+- Second supervisor: [Professor Dario Landa-Silva](http://www.cs.nott.ac.uk/~pszjds)
+
+My main research interests now focus on decision support for Smart Transport and Smart Energy with AI techniques.
 
 **Area of interests**
 
