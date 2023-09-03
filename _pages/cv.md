@@ -46,6 +46,7 @@ Teaching
   
 Service and leadership
 ======
+
 Reviewer for
 ----
 - IEEE Transactions on Evolutionary Computation
@@ -64,7 +65,6 @@ Programme Committee Memberships
 Event Organisation
 ----
 - Organiser of the [ML4VRP Competition](https://sites.google.com/view/ml4vrp?pli=1) of [The Genetic and Evolutionary Computation Conference(GECCO’2023)](https://gecco-2023.sigevo.org/HomePage) , Lisbon, Portugal, July 15th-19th, 2023.
-- 
 
 Honors and Awards
 ======
