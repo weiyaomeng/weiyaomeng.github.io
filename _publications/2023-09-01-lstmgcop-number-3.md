@@ -2,7 +2,7 @@
 title: "Automated design of local search algorithms: Predicting algorithmic components with LSTM"
 collection: publications
 permalink: /publication/2023-09-01-lstmgcop-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 
 date: 2023-09-01
 venue: 'Expert Systems with Applications'
 paperurl: '[LSTM_paper0822.pdf](http://weiyaomeng.github.io/files/LSTM_paper0822.pdf)'

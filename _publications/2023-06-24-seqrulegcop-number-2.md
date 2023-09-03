@@ -2,7 +2,7 @@
 title: "Sequential Rule Mining for Automated Design of Meta-heuristics"
 collection: publications
 permalink: /publication/2023-06-24-seqrulegcop-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 
 date: 2023-06-24
 venue: 'The Genetic and Evolutionary Computation (GECCO)'
 paperurl: 'https://doi.org/10.1145/3583133.3596303'
