@@ -37,6 +37,7 @@ I recently completed a KTP project as a KTP Associate to develop and deploy nove
 
 Teaching
 ======
+
 Teaching support:
 ----
 - Co-convey the module Fundamentals of Artificial Intelligence (2023 spring).
