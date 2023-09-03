@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-06-24-seqrulegcop-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-06-24
-venue: 'Journal 1'
+venue: 'The Genetic and Evolutionary Computation (GECCO)'
 paperurl: 'https://doi.org/10.1145/3583133.3596303'
 citation: 'Meng, W., & Qu, R. (2023, July). Sequential Rule Mining for Automated Design of Meta-heuristics. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 1727-1735).'
 ---
