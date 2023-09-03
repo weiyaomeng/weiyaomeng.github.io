@@ -17,15 +17,20 @@ Education
 
 Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Associate - Faculty of Science (Oct. 2022 -- Present)
+  * University of Nottingham, Nottingham, UK
+  * Duties included: To organise, develop and deliver teaching and assessment across both the BSc and MSc Computer Science modules.
+  
+* Software Research Engineer (KTP Associate) - [Project No.KTP11692](https://info.ktponline.org.uk/action/details/partnership.aspx?id=11692) (Apr. 2022 -- Sept. 2022)
+  * University of Nottingham, Nottingham, UK
+  * Duties included: To develop and implement novel and advanced, hyper-heuristics based routing technologies for standard and non-standard haulage markets.
+  * Supervisor: Professor [Ender Ozcan](http://www.cs.nott.ac.uk/~pszeo/) (University of Nottingham)
+
+* Research Assistant - Project [AMiCC](https://www.projectamicc.com/) (Dec. 2021 -- Mar. 2022)
+  * University of Nottingham, Nottingham, UK
+  * Duties included: To evaluate the benefits of static wireless charging systems through the deployment of an innovative charging system to enable fleet vehicles with short dwell times and high utilisation to switch to electric intelligently. 
+  * Supervisor: Professor [Lucelia Rodrigues](https://www.nottingham.ac.uk/engineering/departments/abe/people/lucelia.rodrigues) (University of Nottingham)
 
 Publications
 ======
