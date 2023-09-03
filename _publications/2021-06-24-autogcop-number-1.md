@@ -1,11 +1,11 @@
 ---
 title: "Automated design of search algorithms: Learning on algorithmic components"
 collection: publications
-permalink: [/publication/2021-06-24-autogcop-number-1](https://doi.org/10.1016/j.eswa.2021.115493)
+permalink: /publication/2021-06-24-autogcop-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-06-24
 venue: 'Expert Systems with Applications'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1016/j.eswa.2021.115493'
 citation: 'Meng, W., & Qu, R. (2021). Automated design of search algorithms: Learning on algorithmic components. Expert Systems with Applications, 185, 115493.'
 ---
 Highlights
