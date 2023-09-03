@@ -19,7 +19,8 @@ My PhD mainly focuses on the automated design of local search algorithms for veh
 
 My main research interests now focus on decision support for Smart Transport and Smart Energy with AI techniques.
 
-**Area of interests**
+Area of interests
+----
 
 Real world applications: 
 - Transport Logistic Scheduling and Vehicle Routing
@@ -28,7 +29,8 @@ AI Algorithms / techniques:
 - Automated Algorithm Design; Hyper-heuristics; Evolutionary Computation
 - Machine Learning; Data Mining; Knowledge Explainability
 
-**Selected projects**
+Selected projects
+----
 
 I was a Research Assistant in the [Amicable Charging (AMiCC) research project](https://www.projectamicc.com/), delivering eco-friendly wireless charging solutions for electric vehicles, with a focus on optimizing the charging infrastructure. The project was led by [Professor Lucelia Rodrigues](https://www.nottingham.ac.uk/engineering/departments/abe/people/lucelia.rodrigues) (University of Nottingham).
 
