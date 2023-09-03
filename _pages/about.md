@@ -19,9 +19,9 @@ My PhD mainly focuses on the automated design of local search algorithms for veh
 
 My main research interests now focus on automated algorithm design and decision support for Smart Transport and Smart Energy with AI techniques.
 
-Quick links to Machine Learning Assisted Evolutionary Computation for Vehicle Routing Problems (ML4VRP)
+```Quick links to Machine Learning Assisted Evolutionary Computation for Vehicle Routing Problems (ML4VRP)
 - [Competition website](https://sites.google.com/view/ml4vrp?pli=1) for GECCO’2023
-- [Competition resources](https://github.com/ML4VRP2023/ML4VRP2023) in Github (including the solution evaluator for VRPTW)
+- [Competition resources](https://github.com/ML4VRP2023/ML4VRP2023) in Github (including the solution evaluator for VRPTW)```
 
 Area of interests
 ----
@@ -44,12 +44,12 @@ I recently completed a KTP project as a KTP Associate to develop and deploy nove
 Teaching
 ======
 
-Teaching support:
+Teaching support
 ----
 - Co-convey the module Fundamentals of Artificial Intelligence (2023 spring).
 - Modules supported: Mathematics for Computer Scientists, Programming and Algorithms, Systems and Architecture, Computer Fundamentals, Operating Systems & Concurrency, Developing Maintainable Software, Simulation and Optimisation for Decision Support, and Data Modelling and Analysis.
 
-BSc/MSc project supervision:
+BSc/MSc project supervision
 ----
 - Mingda Du (started in 2023) - Machine Learning-assisted Automatic Configuration of Metaheuristics for Vehicle Routing Problems
 - Gan Gao (started in 2023) - Research on Search Algorithms for Solving Capacitated Vehicle Routing Problem Based on Reinforcement Learning.
