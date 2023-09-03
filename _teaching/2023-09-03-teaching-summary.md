@@ -1,7 +1,7 @@
 ---
 title: "Teaching Summary"
 collection: teaching
-type: "Modules"
+type: 
 permalink: /teaching/2023-09-03-teaching-summary
 venue: "Computer Science, University of Nottingham"
 date: 2023-09-03
