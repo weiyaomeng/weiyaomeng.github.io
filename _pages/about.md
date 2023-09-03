@@ -17,7 +17,12 @@ My PhD mainly focuses on the automated design of local search algorithms for veh
 - First supervisor: [Professor Rong Qu](http://www.cs.nott.ac.uk/~rxq)
 - Second supervisor: [Professor Dario Landa-Silva](http://www.cs.nott.ac.uk/~pszjds)
 
-My main research interests now focus on decision support for Smart Transport and Smart Energy with AI techniques.
+My main research interests now focus on automated algorithm design and decision support for Smart Transport and Smart Energy with AI techniques.
+
+Quick links: 
+- Machine Learning Assisted Evolutionary Computation for Vehicle Routing Problems
+  - [Competition website](https://sites.google.com/view/ml4vrp?pli=1) for GECCO’2023
+  - [Competition resources](https://github.com/ML4VRP2023/ML4VRP2023) in Github (including the solution evaluator for VRPTW)
 
 Area of interests
 ----
