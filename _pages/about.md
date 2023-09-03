@@ -16,8 +16,10 @@ Research
 My PhD mainly focuses on the automated design of local search algorithms for vehicle routing problems with machine learning techniques. My main research interests now focus on decision support for Smart Transport and Smart Energy with AI techniques.
 
 **Area of interests**
+
 Real world applications: 
 - Transport Logistic Scheduling and Vehicle Routing
+  
 AI Algorithms / techniques: 
 - Automated Algorithm Design; Hyper-heuristics; Evolutionary Computation
 - Machine Learning; Data Mining; Knowledge Explainability
@@ -35,8 +37,6 @@ Modules supported: Mathematics for Computer Scientists, Programming and Algorith
 
 I am currently supervising the following MSc projects:
 
-Mingda Du (started in 2023) - Machine Learning-assisted Automatic Configuration of Metaheuristics for Vehicle Routing Problems
-
-Gan Gao (started in 2023) - Research on Search Algorithms for Solving Capacitated Vehicle Routing Problem Based on Reinforcement Learning.
-
-Jingchen Wang (started in 2023) - A Data Visualisation Tool to Support the Automated Algorithm Design.
+- Mingda Du (started in 2023) - Machine Learning-assisted Automatic Configuration of Metaheuristics for Vehicle Routing Problems
+- Gan Gao (started in 2023) - Research on Search Algorithms for Solving Capacitated Vehicle Routing Problem Based on Reinforcement Learning.
+- Jingchen Wang (started in 2023) - A Data Visualisation Tool to Support the Automated Algorithm Design.
