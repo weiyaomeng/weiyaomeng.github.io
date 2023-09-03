@@ -29,6 +29,7 @@ AI Algorithms / techniques:
 - Machine Learning; Data Mining; Knowledge Explainability
 
 **Selected projects**
+
 I was a Research Assistant in the [Amicable Charging (AMiCC) research project](https://www.projectamicc.com/), delivering eco-friendly wireless charging solutions for electric vehicles, with a focus on optimizing the charging infrastructure. The project was led by Professor [Lucelia Rodrigues](https://www.nottingham.ac.uk/engineering/departments/abe/people/lucelia.rodrigues) (University of Nottingham).
 
 I recently completed a KTP project as a KTP Associate to develop and deploy novel and advanced hyper-heuristics-based routing technologies for haulage markets. The project was led by [Professor Ender Ozcan](http://www.cs.nott.ac.uk/~pszeo/index.html) (University of Nottingham), [Dr Ahmed Kheiri](https://www.lancaster.ac.uk/lums/people/ahmed-kheiri) (Lancaster University), and [Optrak](https://optrak.com/), supported by KTP Scheme under [Project No.KTP11692](https://info.ktponline.org.uk/action/details/partnership.aspx?id=11692).
