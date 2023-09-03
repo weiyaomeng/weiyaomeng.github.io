@@ -5,7 +5,7 @@ permalink: /publication/2023-09-01-lstmgcop-number-3
 excerpt: 
 date: 2023-09-01
 venue: 'Expert Systems with Applications'
-paperurl: '[LSTM_paper0822.pdf](http://weiyaomeng.github.io/files/LSTM_paper0822.pdf)'
+paperurl: 
 citation: 'Meng, W., & Qu, R. (2021). Automated design of local search algorithms: Predicting algorithmic components with LSTM. Expert Systems with Applications, accepted'
 ---
 Highlights
