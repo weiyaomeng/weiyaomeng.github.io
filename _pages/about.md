@@ -19,9 +19,11 @@ My PhD mainly focuses on the automated design of local search algorithms for veh
 
 My main research interests now focus on automated algorithm design and decision support for Smart Transport and Smart Energy with AI techniques.
 
-```Quick links to Machine Learning Assisted Evolutionary Computation for Vehicle Routing Problems (ML4VRP)
+```
+Quick links to Machine Learning Assisted Evolutionary Computation for Vehicle Routing Problems (ML4VRP)
 - [Competition website](https://sites.google.com/view/ml4vrp?pli=1) for GECCO’2023
-- [Competition resources](https://github.com/ML4VRP2023/ML4VRP2023) in Github (including the solution evaluator for VRPTW)```
+- [Competition resources](https://github.com/ML4VRP2023/ML4VRP2023) in Github (including the solution evaluator for VRPTW)
+```
 
 Area of interests
 ----
