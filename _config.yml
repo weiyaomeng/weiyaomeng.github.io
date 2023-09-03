@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-gb"
-title                    : "Weiyao Meng"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Weiyao Meng"
 description              : &description "Researcher in Optimisation and Machine Learning"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/weiyao-meng-a43607233"
+  linkedin         : &weiyao-meng-a43607233
   orcid            : "https://orcid.org/0000-0002-8427-5620"
   pinterest        :
   soundcloud       :
