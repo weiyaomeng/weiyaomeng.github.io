@@ -37,6 +37,8 @@ I recently completed a KTP project as a KTP Associate to develop and deploy nove
 
 Teaching
 ======
+Teaching support:
+----
 - Co-convey the module Fundamentals of Artificial Intelligence (2023 spring).
 - Modules supported: Mathematics for Computer Scientists, Programming and Algorithms, Systems and Architecture, Computer Fundamentals, Operating Systems & Concurrency, Developing Maintainable Software, Simulation and Optimisation for Decision Support, and Data Modelling and Analysis.
 
