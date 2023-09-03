@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weiyao Meng: About me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -28,6 +28,7 @@ AI Algorithms / techniques:
 - Automated Algorithm Design; Hyper-heuristics; Evolutionary Computation
 - Machine Learning; Data Mining; Knowledge Explainability
 
+**Selected projects**
 I was a Research Assistant in the [Amicable Charging (AMiCC) research project](https://www.projectamicc.com/), delivering eco-friendly wireless charging solutions for electric vehicles, with a focus on optimizing the charging infrastructure. The project was led by Professor [Lucelia Rodrigues](https://www.nottingham.ac.uk/engineering/departments/abe/people/lucelia.rodrigues) (University of Nottingham).
 
 I recently completed a KTP project as a KTP Associate to develop and deploy novel and advanced hyper-heuristics-based routing technologies for haulage markets. The project was led by [Professor Ender Ozcan](http://www.cs.nott.ac.uk/~pszeo/index.html) (University of Nottingham), [Dr Ahmed Kheiri](https://www.lancaster.ac.uk/lums/people/ahmed-kheiri) (Lancaster University), and [Optrak](https://optrak.com/), supported by KTP Scheme under [Project No.KTP11692](https://info.ktponline.org.uk/action/details/partnership.aspx?id=11692).
@@ -35,12 +36,11 @@ I recently completed a KTP project as a KTP Associate to develop and deploy nove
 
 Teaching
 ======
-Modules teached: Fundamentals of Artificial Intelligence.
+- Co-convey the module Fundamentals of Artificial Intelligence (2023 spring).
+- Modules supported: Mathematics for Computer Scientists, Programming and Algorithms, Systems and Architecture, Computer Fundamentals, Operating Systems & Concurrency, Developing Maintainable Software, Simulation and Optimisation for Decision Support, and Data Modelling and Analysis.
 
-Modules supported: Mathematics for Computer Scientists, Programming and Algorithms, Systems and Architecture, Computer Fundamentals, Operating Systems & Concurrency, Developing Maintainable Software, Simulation and Optimisation for Decision Support, and Data Modelling and Analysis.
-
-I am currently supervising the following MSc projects:
-
+BSc/MSc project supervision:
+----
 - Mingda Du (started in 2023) - Machine Learning-assisted Automatic Configuration of Metaheuristics for Vehicle Routing Problems
 - Gan Gao (started in 2023) - Research on Search Algorithms for Solving Capacitated Vehicle Routing Problem Based on Reinforcement Learning.
 - Jingchen Wang (started in 2023) - A Data Visualisation Tool to Support the Automated Algorithm Design.
