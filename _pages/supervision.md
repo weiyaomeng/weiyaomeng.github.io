@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-BSc/MSc Project Ideas
+BSc/MSc Project Ideas (2023/24)
 ----
 
 - Project scope
