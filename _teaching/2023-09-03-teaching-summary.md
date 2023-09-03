@@ -8,19 +8,19 @@ date: 2023-09-03
 location: 
 ---
 
-Teaching modules
+Modules
 ======
-
-Teaching support
-======
-- COMP 1001 Mathematics for Computer Scientists
-- COMP 1005 Programming and Algorithms
-- COMP 1006 Systems and Architecture
-- COMP 1007 Computer Fundamentals
-- COMP 2007 Operating Systems & Concurrency
-- COMP 2013 Developing Maintainable Software
-- COMP 4030 Data Modelling and Analysis
-- COMP 4038 Simulation and Optimisation for Decision Support
+| Academic Year | Term   | Module                                                                                                                                                                              | Role               | Duties           |
+|---------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------|
+| 2022-2023     | Spring | Fundamentals of Artificial Intelligence                                                                                                                                             | Teaching Associate | Co-convenor      |
+| 2022-2023     | Spring | Data Modelling and Analysis; Simulation and Optimisation for Decision Support                                                                                                       | Teaching Associate | Teaching support |
+| 2022-2023     | Autumn | Mathematics for Computer Scientists; Programming and Algorithms; Systems and Architecture; Computer Fundamentals; Operating Systems & Concurrency; Developing Maintainable Software | Teaching Associate | Teaching support |
+| 2021-2022     | Spring | Fundamentals of Artificial Intelligence                                                                                                                                             | Teaching Assistant | Teaching support |
+| 2021-2022     | Autumn | Mathematics for Computer Scientists                                                                                                                                                 | Teaching Assistant | Teaching support |
+| 2020-2021     | Spring | Fundamentals of Artificial Intelligence                                                                                                                                             | Teaching Assistant | Teaching support |
+| 2020-2021     | Autumn | Mathematics for Computer Scientists; Developing Maintainable Software                                                                                                               | Teaching Assistant | Teaching support |
+| 2019-2020     | Spring | Fundamentals of Artificial Intelligence                                                                                                                                             | Teaching Assistant | Teaching support |
+| 2018-2019     | Spring | Fundamentals of Artificial Intelligence                                                                                                                                             | Teaching Assistant | Teaching support |
 
 BSc/MSc Supervision 
 ======
