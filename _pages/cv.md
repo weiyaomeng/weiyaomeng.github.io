@@ -64,3 +64,18 @@ Programme Committee Memberships
 Event Organisation
 ----
 - Organiser of the [ML4VRP Competition](https://sites.google.com/view/ml4vrp?pli=1) of [The Genetic and Evolutionary Computation Conference(GECCO’2023)](https://gecco-2023.sigevo.org/HomePage) , Lisbon, Portugal, July 15th-19th, 2023.
+- 
+
+Honors and Awards
+======
+- Nottingham Reward Scheme (NRS) Award (2023)
+  - University of Nottingham, Nottingham, UK
+- Researcher Academy Conference, Travel and Training Fund (2023)
+  - University of Nottingham, Nottingham, UK
+- 1st Scholarship for Outstanding Students (2015)
+  - School of Computer Science and Technology, Shandong Normal University, Shandong, China
+- 2nd Scholarship for Outstanding Students (2013, 2014)
+  - School of Computer Science and Technology, Shandong Normal University, Shandong, China
+- Outstanding League Party Leader/Outstanding Student Leader (2013, 2014, 2015)
+  - School of Computer Science and Technology, Shandong Normal University, Shandong, China
+
