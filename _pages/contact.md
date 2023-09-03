@@ -7,17 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
-Email: weiyao.meng2@nottingham.ac.uk
+Email
+----
+weiyao.meng2@nottingham.ac.uk
   - During term time, I aim to reply to you within three working days. 
   
-Office: C87, Computer Science Building, Jubilee Campus, University of Nottingham, NG8 1BB
+Office
+----
+C87, Computer Science Building, Jubilee Campus, University of Nottingham, NG8 1BB
 
-Mailing Address: School of Computer Science, NG8 1BB
+Mailing Address
+----
+School of Computer Science, NG8 1BB
 
 Nottingham
 
 United Kingdom
 
 Social
-Twitter: @WeiyaoMeng
-LinkedIn: @Weiyao Meng
+----
+- Twitter: [@WeiyaoMeng](https://twitter.com/WeiyaoMeng)
+- LinkedIn: [@Weiyao Meng](https://www.linkedin.com/in/weiyao-meng-a43607233/)
