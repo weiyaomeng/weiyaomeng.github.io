@@ -6,7 +6,7 @@ excerpt:
 date: 2023-09-01
 venue: 'Expert Systems with Applications'
 paperurl: 
-citation: 'Meng, W., & Qu, R. (2021). Automated design of local search algorithms: Predicting algorithmic components with LSTM. Expert Systems with Applications, accepted'
+citation: 'Meng, W., & Qu, R. (2023). Automated design of local search algorithms: Predicting algorithmic components with LSTM. Expert Systems with Applications, accepted'
 ---
 Highlights
 ----
