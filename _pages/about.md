@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at the [Computational Optimization and Learning (COL) Lab](https://www.nottingham.ac.uk/research/groups/col/) in the [School of Computer Science](https://www.nottingham.ac.uk/computerscience/) and a Teaching Associate in the Faculty of Science at the University of Nottingham.
+I am currently a Teaching Associate in the [School of Computer Science](https://www.nottingham.ac.uk/computerscience/) at the University of Nottingham. I recently defended my PhD thesis, titled Automated Design of Local Search Algorithms for Vehicle Routing Problems with Time Windows, at the [Computational Optimization and Learning (COL) Lab](https://www.nottingham.ac.uk/research/groups/col/).
 
 Research
 ======
