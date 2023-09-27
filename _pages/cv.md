@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Nottingham, 2018-2023 (expected)
+* Ph.D in Computer Science, University of Nottingham, 2018-2023
 * M.S. in Advanced Software Engineering, Kings College London, 2016-2017
 * B.S. in Computer Science and Technolgy, Shandong Normal University, 2012-2016
 

@@ -10,6 +10,7 @@ location:
 
 MSc Supervision 
 ======
-- Mingda Du, (started in 2023) - Machine Learning-assisted Automatic Configuration of Metaheuristics for Vehicle Routing Problems
-- Gan Gao, (started in 2023) - Research on Search Algorithms for Solving Capacitated Vehicle Routing Problem Based on Reinforcement Learning.
-- Jingchen Wang, (started in 2023) - A Data Visualisation Tool to Support the Automated Algorithm Design.
+Selected previous BSc/MSc projects:
+- Machine Learning-assisted Automatic Configuration of Metaheuristics for Vehicle Routing Problems.
+- Research on Search Algorithms for Solving Capacitated Vehicle Routing Problem Based on Reinforcement Learning.
+- A Data Visualisation Tool to Support the Automated Algorithm Design.
