@@ -13,6 +13,7 @@ Modules
 
 | Academic Year | Term   | Module                                                                                                                                                                              | Role               | Duties           |
 |---------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------|
+| 2023-2024     | Autumn | Mathematics for Computer Scientists; Developing Maintainable Software; Machine Learning | Teaching Associate | Teaching support |
 | 2022-2023     | Spring | Fundamentals of Artificial Intelligence                                                                                                                                             | Teaching Associate | Co-convenor      |
 | 2022-2023     | Spring | Data Modelling and Analysis; Simulation and Optimisation for Decision Support                                                                                                       | Teaching Associate | Teaching support |
 | 2022-2023     | Autumn | Mathematics for Computer Scientists; Programming and Algorithms; Systems and Architecture; Computer Fundamentals; Operating Systems & Concurrency; Developing Maintainable Software | Teaching Associate | Teaching support |
