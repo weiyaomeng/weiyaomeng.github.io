@@ -18,9 +18,10 @@ Reviewer for
 
 Programme Committee Memberships
 ----
-- Member of Task Force on [Automated Algorithm Design, Configuration and Selection (AADCS)](https://sites.google.com/view/ieeeaadcs) at IEEE Computational Intelligence Society.
-- Member of Association for Computing Machinery (ACM) SIGEVO.
-- Candidate Associate of The Operational Research Society
+- Member of IEEE Taskforce on [Evolutionary Scheduling and Combinatorial Optimisation (ESCO)](https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/) at IEEE Computational Intelligence Society, since October 2023.
+- Member of IEEE Taskforce on [Automated Algorithm Design, Configuration and Selection (AADCS)](https://sites.google.com/view/ieeeaadcs) at IEEE Computational Intelligence Society, since July 2023.
+- Member of Association for Computing Machinery (ACM) SIGEVO, since July 2022.
+- Candidate Associate of The Operational Research Society, since June 2022.
 
 Event Organisation
 ----
