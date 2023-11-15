@@ -44,7 +44,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  Associate Fellow of The Higher Education Academy, November 2023.
+- Associate Fellow of The Higher Education Academy, November 2023.
   
 Service and leadership
 ======
