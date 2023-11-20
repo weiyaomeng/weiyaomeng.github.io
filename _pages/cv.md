@@ -60,8 +60,10 @@ Reviewer for
 
 Programme Committee Memberships
 ----
+- Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO-2024), July 14-18, 2024, Melbourne, Australia. 
 - Member of IEEE Taskforce on [Evolutionary Scheduling and Combinatorial Optimisation (ESCO)](https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/) at IEEE Computational Intelligence Society, since October 2023.
 - Member of IEEE Taskforce on [Automated Algorithm Design, Configuration and Selection (AADCS)](https://sites.google.com/view/ieeeaadcs) at IEEE Computational Intelligence Society, since July 2023.
+- Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO-2023), July 15-19, 2023, Lisbon, Portugal.
 - Member of Association for Computing Machinery (ACM) SIGEVO, since July 2022.
 - Candidate Associate of The Operational Research Society, since June 2022.
 
