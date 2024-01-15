@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Qualifications
 ======
+* Associate Fellow of The Higher Education Academy, November 2023.
 * PhD in Computer Science, University of Nottingham, 2018-2023
 * MSc in Advanced Software Engineering, Kings College London, 2016-2017
 * BSc in Computer Science and Technolgy, Shandong Normal University, 2012-2016
@@ -43,8 +44,6 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-- Associate Fellow of The Higher Education Academy, November 2023.
   
 Service and leadership
 ======
@@ -52,10 +51,12 @@ Service and leadership
 Reviewer for
 ----
 - IEEE Transactions on Evolutionary Computation
+- IEEE Computational Intelligence Magazine
 - Engineering Applications of Artificial Intelligence
 - Journal of the Operational Research Society
 - Computers and Operations Research
 - PeerJ Computer Science
+- The Genetic and Evolutionary Computation Conference(GECCO’2024)
 - The Genetic and Evolutionary Computation Conference(GECCO’2023)
 
 Programme Committee Memberships
@@ -69,10 +70,13 @@ Programme Committee Memberships
 
 Event Organisation
 ----
+- Organiser of the [ML4VRP Competition](https://sites.google.com/view/ml4vrp?pli=1) of [The Genetic and Evolutionary Computation Conference(GECCO’2024)](https://gecco-2024.sigevo.org/Competitions) , Melbourne, Australia, July 14th-18th, 2024. 
 - Organiser of the [ML4VRP Competition](https://sites.google.com/view/ml4vrp?pli=1) of [The Genetic and Evolutionary Computation Conference(GECCO’2023)](https://gecco-2023.sigevo.org/HomePage) , Lisbon, Portugal, July 15th-19th, 2023.
 
 Honors and Awards
 ======
+- Outstanding Reviewer for the Journal of the Operational Research Society (2023)
+  - The Operational Research Society
 - Nottingham Reward Scheme (NRS) Award (2023)
   - University of Nottingham, Nottingham, UK
 - Researcher Academy Conference, Travel and Training Fund (2023)

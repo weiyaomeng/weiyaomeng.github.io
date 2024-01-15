@@ -14,11 +14,11 @@ BSc/MSc Project Ideas (2023/24)
   - Machine Learning, Data Mining and Analysis; 
   - Heuristic Optimisation Algorithms
 - Example problems
-  - Transport scheduling / optimisation, vehicle routing
+  - Transport scheduling / optimisation, vehicle routing, energy domain
 
 Note: For inspiration, a few specific project ideas are included below. I am open to new ideas on related problem scenarios using appropriate algorithms/techniques. The scope should be related to AI optimisation or machine learning and depends on your skills and ability to learn quickly. Please drop me an email to discuss your interests further.
 
-1. Machine learning into the design of search algorithms
+1. Machine learning into evolutionary computation
    - Type: research
    - Keywords: Machine learning, Meta-heuristics, Hyper-heuristics, Automated algorithm design
    - Programming: Java, Python, etc
@@ -48,14 +48,14 @@ Note: For inspiration, a few specific project ideas are included below. I am ope
    - You are encouraged to develop your own project ideas of your own inetrests. The scope should be related to optimisation or machine learning, and depends on your skills and ability to learn quickly. 
    - I would suggest to follow the [easy 7 step format](https://jclos.github.io/projects/) provided by Dr Jeremie Clos to structure your idea into a decent project.
 
-BSc/MSc Supervision 
+<!--BSc/MSc Supervision 
 ----
 - Title: Machine Learning-assisted Automatic Configuration of Metaheuristics for Vehicle Routing Problems
-  - Mingda Du, MSc project (started in 2023)
+  - Mingda Du, MSc project (2023)
 - Research on Search Algorithms for Solving Capacitated Vehicle Routing Problem Based on Reinforcement Learning
-  - Gan Gao, MSc project (started in 2023)
+  - Gan Gao, MSc project (2023)
 - A Data Visualisation Tool to Support the Automated Algorithm Design
-  - Jingchen Wang, MSc project (started in 2023)
+  - Jingchen Wang, MSc project (2023)
 
 <!--
 {% for post in site.teaching reversed %}

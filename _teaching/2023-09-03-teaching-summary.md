@@ -7,7 +7,6 @@ venue: "Computer Science, University of Nottingham"
 date: 2023-09-03
 location: 
 ---
-- Associate Fellow of The Higher Education Academy, November 2023.
 
 Modules
 ======

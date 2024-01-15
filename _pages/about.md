@@ -20,8 +20,8 @@ Research
 My scientific interests focus on automated algorithm design and decision support for Smart Transport and Smart Energy with AI techniques.
 
 > Quick links to Machine Learning Assisted Evolutionary Computation for Vehicle Routing Problems (ML4VRP)
-- [Competition website](https://sites.google.com/view/ml4vrp?pli=1) for GECCO’2023
-- [Competition resources](https://github.com/ML4VRP2023/ML4VRP2023) in Github (including the solution evaluator for VRPTW)
+- [Competition website](https://sites.google.com/view/ml4vrp?pli=1) for GECCO’2024
+- [Competition resources](https://github.com/ML4VRP2023/ML4VRP2023) for GECCO’2023
 
 Area of interests
 ----
