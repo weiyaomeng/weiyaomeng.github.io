@@ -61,6 +61,7 @@ Reviewer for
 
 Membership
 ----
+- Member of Diversity & Inclusion sub-committee at IEEE Computational Intelligence Society, since January 2024.
 - Member of IEEE Taskforce on [Evolutionary Scheduling and Combinatorial Optimisation (ESCO)](https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/) at IEEE Computational Intelligence Society, since October 2023.
 - Member of IEEE Taskforce on [Automated Algorithm Design, Configuration and Selection (AADCS)](https://sites.google.com/view/ieeeaadcs) at IEEE Computational Intelligence Society, since July 2023.
 - Member of Association for Computing Machinery (ACM) SIGEVO, since July 2022.
