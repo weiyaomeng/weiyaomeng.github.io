@@ -9,11 +9,12 @@ author_profile: true
 
 Reviewer for
 ----
-- IEEE Transactions on Evolutionary Computation
-- IEEE Computational Intelligence Magazine
-- Engineering Applications of Artificial Intelligence
-- Journal of the Operational Research Society
 - Computers and Operations Research
+- Engineering Applications of Artificial Intelligence
+- Expert Systems with Applications
+- IEEE Computational Intelligence Magazine
+- IEEE Transactions on Evolutionary Computation
+- Journal of the Operational Research Society
 - PeerJ Computer Science
 - The Genetic and Evolutionary Computation Conference(GECCO’2024)
 - The Genetic and Evolutionary Computation Conference(GECCO’2023)
