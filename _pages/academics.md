@@ -16,6 +16,7 @@ Reviewer for
 - IEEE Transactions on Evolutionary Computation
 - Journal of the Operational Research Society
 - PeerJ Computer Science
+- IEEE Congress on Evolutionary Computation (CEC) (CEC'2024)
 - The Genetic and Evolutionary Computation Conference(GECCO’2024)
 - The Genetic and Evolutionary Computation Conference(GECCO’2023)
 
@@ -29,6 +30,7 @@ Membership
 
 Programme Committee Member
 ----
+- Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2024), June 30-July 5, 2024, Yokohama, Japan.
 - Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO-2024), July 14-18, 2024, Melbourne, Australia. 
 - Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO-2023), July 15-19, 2023, Lisbon, Portugal.
 
