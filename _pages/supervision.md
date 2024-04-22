@@ -61,3 +61,12 @@ Note: For inspiration, a few specific project ideas are included below. I am ope
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}-->
+----
+Selected previous BSc/MSc projects:
+----
+- Machine Learning-assisted Automatic Configuration of Metaheuristics for Vehicle Routing Problems
+- Research on Search Algorithms for Solving Capacitated Vehicle Routing Problem Based on Reinforcement Learning.
+- A Data Visualisation Tool to Support the Automated Algorithm Design.
+- Machine Learning based Selection Hyper-heuristics for Vehicle Routing Problems.
+- Machine Learning for Predicting Parking Availability: A Case of Study in Melbourne
+

@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Teaching Associate in the [School of Computer Science](https://www.nottingham.ac.uk/computerscience/) at the University of Nottingham. I recently defended my PhD thesis at the [Computational Optimization and Learning (COL) Lab](https://www.nottingham.ac.uk/research/groups/col/).
+I am currently a Teaching Associate in the [School of Computer Science](https://www.nottingham.ac.uk/computerscience/) at the University of Nottingham. 
 
-PhD Thesis: "[Automated Design of Local Search Algorithms for Vehicle Routing Problems with Time Windows](/files/thesis/Weiyao_Thesis202309.pdf)". University of Nottingham, 2023.
-- First supervisor: [Professor Rong Qu](http://www.cs.nott.ac.uk/~rxq)
-- Second supervisor: [Professor Dario Landa-Silva](http://www.cs.nott.ac.uk/~pszjds)
+I completed my PhD at the [Computational Optimization and Learning (COL) Lab](https://www.nottingham.ac.uk/research/groups/col/).
+- PhD Thesis: "[Automated Design of Local Search Algorithms for Vehicle Routing Problems with Time Windows](/files/thesis/Weiyao_Thesis202309.pdf)". University of Nottingham, 2023.
+  - First supervisor: [Professor Rong Qu](http://www.cs.nott.ac.uk/~rxq)
+  - Second supervisor: [Professor Dario Landa-Silva](http://www.cs.nott.ac.uk/~pszjds)
 
-Research
-======
-
-My scientific interests focus on automated algorithm design and decision support for Smart Transport and Smart Energy with AI techniques.
+My research interests focus on using AI techniques to support decision-making in sustainable development, particularly in domains such as sustainable transport, energy and food systems.
 
 > Quick links to Machine Learning Assisted Evolutionary Computation for Vehicle Routing Problems (ML4VRP)
 - [Competition website](https://sites.google.com/view/ml4vrp?pli=1) for GECCO’2024
@@ -46,12 +44,6 @@ Teaching
 
 Teaching support
 ----
+- Course co-admin and instructor for the [Heuristic Optimisation and Learning](https://www.natcor.ac.uk/courses/) NATCOR course, 8-12 April 2024.
 - Co-conveyed the module Fundamentals of Artificial Intelligence (2023 spring).
 - Modules supported: Mathematics for Computer Scientists, Programming and Algorithms, Systems and Architecture, Computer Fundamentals, Operating Systems & Concurrency, Developing Maintainable Software, Simulation and Optimisation for Decision Support, Data Science and Machine Learning, and Machine Learning.
-
-BSc/MSc project supervision
-----
-Selected previous BSc/MSc projects:
-- Machine Learning-assisted Automatic Configuration of Metaheuristics for Vehicle Routing Problems
-- Research on Search Algorithms for Solving Capacitated Vehicle Routing Problem Based on Reinforcement Learning.
-- A Data Visualisation Tool to Support the Automated Algorithm Design.
