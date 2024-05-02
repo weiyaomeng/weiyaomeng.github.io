@@ -9,12 +9,12 @@ author_profile: true
 
 Email
 ----
-weiyao.meng2@nottingham.ac.uk
-  - During term time, I aim to reply to you within three working days. 
+- weiyao.meng2@nottingham.ac.uk
+- W.Meng@strategic-innovation.co.uk
   
 Office
 ----
-C87, Computer Science Building, Jubilee Campus, University of Nottingham, NG8 1BB
+B21a, Si Yuan Building, Jubilee Campus, University of Nottingham, NG8 1BB
 
 Mailing Address
 ----

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Teaching Associate in the [School of Computer Science](https://www.nottingham.ac.uk/computerscience/) at the University of Nottingham. 
+I am currently a Data Scientist (KTP Associate) for Knowledge Transfer Partnership (KTP) with the [N/Lab](https://www.nlab.org.uk/) and the [Haydn Green Institute](https://www.nottingham.ac.uk/business/who-we-are/centres-and-institutes/HGI/) in the Nottingham University Business School and [Strategic Innovation Limited](https://strategic-innovation.co.uk/) (SI).
 
 I completed my PhD at the [Computational Optimization and Learning (COL) Lab](https://www.nottingham.ac.uk/research/groups/col/).
 - PhD Thesis: "[Automated Design of Local Search Algorithms for Vehicle Routing Problems with Time Windows](/files/thesis/Weiyao_Thesis202309.pdf)". University of Nottingham, 2023.
@@ -26,6 +26,7 @@ Area of interests
 
 Real world applications: 
 - Transport Logistic Scheduling and Vehicle Routing
+- Sustainable Food Systems
   
 AI Algorithms / techniques: 
 - Automated Algorithm Design; Hyper-heuristics; Evolutionary Computation
@@ -41,8 +42,8 @@ I recently completed a KTP project as a KTP Associate to develop and deploy nove
 
 Teaching
 ======
+I was a Teaching Associate in the [School of Computer Science](https://www.nottingham.ac.uk/computerscience/) at the University of Nottingham. 
 
-Teaching support
 ----
 - Course co-admin and instructor for the [Heuristic Optimisation and Learning](https://www.natcor.ac.uk/courses/) NATCOR course, 8-12 April 2024.
 - Co-conveyed the module Fundamentals of Artificial Intelligence (2023 spring).
