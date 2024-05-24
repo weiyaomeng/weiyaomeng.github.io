@@ -9,7 +9,7 @@ author_profile: true
 
 Email
 ----
-- weiyao.meng2@nottingham.ac.uk
+- Weiyao.Meng2@nottingham.ac.uk
 - W.Meng@strategic-innovation.co.uk
   
 Office
@@ -18,9 +18,11 @@ B21a, Si Yuan Building, Jubilee Campus, University of Nottingham, NG8 1BB
 
 Mailing Address
 ----
-School of Computer Science, NG8 1BB
+B21a, Si Yuan Building,
 
-Nottingham
+Jubilee Campus, University of Nottingham, 
+
+Nottingham, NG8 1BB
 
 United Kingdom
 
