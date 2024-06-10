@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+Invited Talks
+----
+- Invited Talk, [Automated Design of Local Search Algorithms with Machine Learning for Vehicle Routing Problems](https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/ecso-webinars.html), at IEEE CIS Taskforce on Evolutionary Scheduling and Combinatorial Optimisation Webinars, 10 June 2024. [pdf](../files/ESCO20240610Share.pdf)
+
 Reviewer for
 ----
 - Computers and Operations Research
