@@ -11,8 +11,8 @@ redirect_from:
 I am currently a Data Scientist (KTP Associate) for Knowledge Transfer Partnership (KTP) with the [N/Lab](https://www.nlab.org.uk/) and the [Haydn Green Institute](https://www.nottingham.ac.uk/business/who-we-are/centres-and-institutes/HGI/) in the Nottingham University Business School and [Strategic Innovation Limited](https://strategic-innovation.co.uk/). The [aim of this project](https://www.nottingham.ac.uk/news/strategic-innovation-n-lab?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news) is to utilise cutting-edge AI and Big Data analytics to drive transformational change in the food production system, towards sustainability.
 
 > Come together for Food System Sustainability
-- [Join us on LinkedIn](https://www.linkedin.com/showcase/think-better-world/) for networking and updates.
-- Visit our [Think Better World Alliance Website](http://www.thinkbetterworld.com/) to learn more and get involved.
+- [Join us on LinkedIn](https://www.linkedin.com/showcase/think-better-world/) for updates.
+- Visit our [Think Better World Alliance Website](http://www.thinkbetterworld.com/) to get involved.
 
 Area of interests
 ----
