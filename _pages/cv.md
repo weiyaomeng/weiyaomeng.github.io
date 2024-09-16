@@ -61,6 +61,7 @@ Reviewer for
 - IEEE Transactions on Evolutionary Computation
 - Journal of the Operational Research Society
 - PeerJ Computer Science
+- IEEE Symposium Series on Computational Intelligence (SSCI'2025)
 - IEEE Congress on Evolutionary Computation (CEC) (CEC'2024)
 - The Genetic and Evolutionary Computation Conference(GECCO’2024)
 - The Genetic and Evolutionary Computation Conference(GECCO’2023)
