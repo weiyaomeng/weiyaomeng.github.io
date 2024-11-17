@@ -78,6 +78,7 @@ Committee Chair & Membership
 ----
 - Member of the Programme Committee of IEEE Symposium on Computational Intelligence (SSCI'2025) for Energy, Transport and Environmental Sustainability, March 17-20, 2025, Trondheim, Norway.
 - Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2024), June 30-July 5, 2024, Yokohama, Japan.
+- Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO'2025), July 14-18, 2025, Málaga, Spain.
 - Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO-2024), July 14-18, 2024, Melbourne, Australia. 
 - Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO-2023), July 15-19, 2023, Lisbon, Portugal.
 
