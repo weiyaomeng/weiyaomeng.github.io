@@ -11,6 +11,7 @@ redirect_from:
 
 Qualifications
 ======
+* Fellow of The Higher Education Academy, November 2024.
 * Associate Fellow of The Higher Education Academy, November 2023.
 * PhD in Computer Science, University of Nottingham, 2018-2023
 * MSc in Advanced Software Engineering, Kings College London, 2016-2017
