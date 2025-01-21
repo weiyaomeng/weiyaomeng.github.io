@@ -22,7 +22,8 @@ Employment
 * Data Scientist (KTP Associate) - [Project No.KTP13737](https://info.ktponline.org.uk/action/details/partnership.aspx?id=13737) (May 2024 -- Present)
   * Knowledge Base Partner: Business School, University of Nottingham, Nottingham, UK
   * Company Partner: [Strategic Innovation Limited](https://strategic-innovation.co.uk/), Cambridge, UK
-  * Supervsiors: Dr John Harvey (University of Nottingham), Mina Forest (Strategic Innovation Limited)
+  * Project lead: Dr John Harvey (University of Nottingham)
+  * Supervsiors: Professor James Goulding (University of Nottingham), Mina Forest (Strategic Innovation Limited)
 
 * Teaching Associate - Faculty of Science (Oct. 2022 -- Apr. 2024)
   * University of Nottingham, Nottingham, UK
