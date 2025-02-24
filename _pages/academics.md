@@ -21,9 +21,8 @@ Reviewer for
 - Journal of the Operational Research Society
 - PeerJ Computer Science
 - IEEE Symposium Series on Computational Intelligence (SSCI'2025)
-- IEEE Congress on Evolutionary Computation (CEC) (CEC'2024)
-- The Genetic and Evolutionary Computation Conference(GECCO’2024)
-- The Genetic and Evolutionary Computation Conference(GECCO’2023)
+- IEEE Congress on Evolutionary Computation (CEC) (CEC'2024, 2025)
+- The Genetic and Evolutionary Computation Conference(GECCO’2023-2025)
 
 Membership
 ----
@@ -36,6 +35,7 @@ Membership
 Committee Chair & Membership
 ----
 - Member of the Programme Committee of IEEE Symposium on Computational Intelligence (SSCI'2025) for Energy, Transport and Environmental Sustainability, March 17-20, 2025, Trondheim, Norway.
+- Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2025), June 8-12, 2025, Hangzhou, China.
 - Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2024), June 30-July 5, 2024, Yokohama, Japan.
 - Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO'2025), July 14-18, 2025, Málaga, Spain.
 - Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO'2024), July 14-18, 2024, Melbourne, Australia. 
