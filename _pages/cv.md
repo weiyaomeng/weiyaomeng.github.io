@@ -63,6 +63,7 @@ Reviewer for
 - IEEE Transactions on Evolutionary Computation
 - Journal of the Operational Research Society
 - PeerJ Computer Science
+- Pacific Rim International Conference on Artificial Intelligence (PRICAI'2025)
 - IEEE Symposium Series on Computational Intelligence (SSCI'2025)
 - IEEE Congress on Evolutionary Computation (CEC) (CEC'2024, 2025)
 - The Genetic and Evolutionary Computation Conference(GECCO’2023-2025)
@@ -77,6 +78,7 @@ Membership
 
 Committee Chair & Membership
 ----
+- Member of the Programme Committee of Pacific Rim International Conference on Artificial Intelligence (PRICAI'2025), November 17–21, 2025, Wellington, New Zealand.
 - Member of the Programme Committee of IEEE Symposium on Computational Intelligence (SSCI'2025) for Energy, Transport and Environmental Sustainability, March 17-20, 2025, Trondheim, Norway.
 - Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2025), June 8-12, 2025, Hangzhou, China.
 - Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2024), June 30-July 5, 2024, Yokohama, Japan.
