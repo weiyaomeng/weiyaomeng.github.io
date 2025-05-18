@@ -94,6 +94,7 @@ Conferences / Event Organisation
 
 Honors and Awards
 ======
+- Best Poster Prize (As voted by the delegates), Digital Footprints 2025 at University of Leeds, May 14–15, 2025, Nottingham, UK
 - Outstanding Reviewer for the Journal of the Operational Research Society (2023)
   - The Operational Research Society
 - Nottingham Reward Scheme (NRS) Award (2023)
