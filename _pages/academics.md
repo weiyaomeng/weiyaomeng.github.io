@@ -35,6 +35,7 @@ Membership
 
 Committee Chair & Membership
 ----
+- Publicity Chair of IEEE WCCI-CEC (CEC'2026), June 21 – 26, 2026, Maastricht, Netherlands.
 - Member of the Programme Committee of Pacific Rim International Conference on Artificial Intelligence (PRICAI'2025), November 17–21, 2025, Wellington, New Zealand.
 - Member of the Programme Committee of IEEE Symposium on Computational Intelligence (SSCI'2025) for Energy, Transport and Environmental Sustainability, March 17-20, 2025, Trondheim, Norway.
 - Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2025), June 8-12, 2025, Hangzhou, China.
