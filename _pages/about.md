@@ -11,7 +11,7 @@ redirect_from:
 I am currently a Research Fellow with the [N/Lab](https://www.nlab.org.uk/) in the Nottingham University Business School and a Data Scientist (KTP Associate) with [Strategic Innovation Limited](https://strategic-innovation.co.uk/). My research interests focus on using AI techniques to support decision-making in sustainable development, particularly in domains such as sustainable transport, energy and food systems.
 
 Area of interests
-----
+----ls
 What I work with: Hyper-heuristics, Evolutionary Computation, Machine Learning, NLP, Agentic AI Systems, Automated Algorithm Design.
 
 Problems I am interested in: AI-driven decision support systems for the automation of complex computational tasks and workflows that helps humans or agents make better decisions.
