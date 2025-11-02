@@ -8,29 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Data Scientist (KTP Associate) for Knowledge Transfer Partnership (KTP) with the [N/Lab](https://www.nlab.org.uk/) and the [Haydn Green Institute](https://www.nottingham.ac.uk/business/who-we-are/centres-and-institutes/HGI/) in the Nottingham University Business School and [Strategic Innovation Limited](https://strategic-innovation.co.uk/). The [aim of this project](https://www.nottingham.ac.uk/news/strategic-innovation-n-lab?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news) is to utilise cutting-edge AI and Big Data analytics to drive transformational change in the food production system, towards sustainability.
-
-> Come together for Food System Sustainability
-- [Join us on LinkedIn](https://www.linkedin.com/showcase/think-better-world/) for updates.
-- Visit our [Think Better World Alliance Website](http://www.thinkbetterworld.com/) to get involved.
+I am currently a Research Fellow with the [N/Lab](https://www.nlab.org.uk/) in the Nottingham University Business School and a Data Scientist (KTP Associate) with [Strategic Innovation Limited](https://strategic-innovation.co.uk/). My research interests focus on using AI techniques to support decision-making in sustainable development, particularly in domains such as sustainable transport, energy and food systems.
 
 Area of interests
 ----
+What I work with: Hyper-heuristics, Evolutionary Computation, Machine Learning, NLP, Agentic AI Systems, Automated Algorithm Design.
 
-Real world applications: 
-- Challenges in Sustainable Food Systems
-- Transport Logistic Scheduling and Vehicle Routing Problems
-  
-AI Algorithms / techniques: 
-- Machine Learning; Data Mining; Knowledge Explainability
-- Automated Algorithm Design; Hyper-heuristics; Evolutionary Computation; Combinatorial Optimisation
+Problems I am interested in: AI-driven decision support systems for the automation of complex computational tasks and workflows that helps humans or agents make better decisions.
 
-I completed my PhD at the [Computational Optimization and Learning (COL) Lab](https://www.nottingham.ac.uk/research/groups/col/).
-- PhD Thesis: "[Automated Design of Local Search Algorithms for Vehicle Routing Problems with Time Windows](/files/thesis/Weiyao_Thesis202309.pdf)". University of Nottingham, 2023.
-  - First supervisor: [Professor Rong Qu](http://www.cs.nott.ac.uk/~rxq)
-  - Second supervisor: [Professor Dario Landa-Silva](http://www.cs.nott.ac.uk/~pszjds)
+Early interest, currently exploring: Agentic AI for Metascience, i.e., using autonomous AI systems to accelerate scientific discovery, automate research workflows and improve reproducibility.
 
-My research interests focus on using AI techniques to support decision-making in sustainable development, particularly in domains such as sustainable transport, energy and food systems.
+> Quick link to an agentic AI solution for automated data science tasks, developed in collaboration with Yuhan Guo, Zefei Xie, and Dr. Kai Xu. Submitted to the Agentic Vis Challenge 2025. 
+- [Our submission](https://github.com/Vis4Sense/agentic-vis-2025).
+- [Competition website](https://visxgenai.github.io/)
 
 > Quick links to Machine Learning Assisted Evolutionary Computation for Vehicle Routing Problems (ML4VRP)
 - [Competition website](https://sites.google.com/view/ml4vrp?pli=1) for GECCO’2024
@@ -38,6 +28,11 @@ My research interests focus on using AI techniques to support decision-making in
 
 Selected projects
 ----
+
+I completed my PhD at the [Computational Optimization and Learning (COL) Lab](https://www.nottingham.ac.uk/research/groups/col/).
+- PhD Thesis: "[Automated Design of Local Search Algorithms for Vehicle Routing Problems with Time Windows](/files/thesis/Weiyao_Thesis202309.pdf)". University of Nottingham, 2023.
+  - First supervisor: [Professor Rong Qu](http://www.cs.nott.ac.uk/~rxq)
+  - Second supervisor: [Professor Dario Landa-Silva](http://www.cs.nott.ac.uk/~pszjds)
 
 I was a Research Assistant in the [Amicable Charging (AMiCC) research project](https://www.projectamicc.com/), delivering eco-friendly wireless charging solutions for electric vehicles, with a focus on optimizing the charging infrastructure. The project was led by [Professor Lucelia Rodrigues](https://www.nottingham.ac.uk/engineering/departments/abe/people/lucelia.rodrigues) (University of Nottingham).
 
