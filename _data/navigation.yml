@@ -18,5 +18,5 @@ main:
   - title: "Contact"
     url: /contact/
 
-    - title: "Blog"
+  - title: "Blog"
     url: /year-archive/
