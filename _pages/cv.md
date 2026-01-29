@@ -22,7 +22,7 @@ Employment
 * Research Fellow - [Pharmacy First Evaluation](https://www.lshtm.ac.uk/research/centres-projects-groups/pharmacy-first-evaluation) (Oct 2025 -- Present)
   * Supervsiors: Professor James Goulding (University of Nottingham)
   
-* Data Scientist (KTP Associate) - [Project No.KTP13737](https://info.ktponline.org.uk/action/details/partnership.aspx?id=13737) (May 2024 -- Present)
+* Data Scientist (KTP Associate) - [Project No.KTP13737](https://www.nottingham.ac.uk/news/strategic-innovation-n-lab) (May 2024 -- Present)
   * Knowledge Base Partner: Business School, University of Nottingham, Nottingham, UK
   * Company Partner: [Strategic Innovation Limited](https://strategic-innovation.co.uk/), Cambridge, UK
   * Project lead: Dr John Harvey (University of Nottingham)
@@ -32,7 +32,7 @@ Employment
   * University of Nottingham, Nottingham, UK
   * Duties included: To organise, develop and deliver teaching and assessment across both the BSc and MSc Computer Science modules.
   
-* Software Research Engineer (KTP Associate) - [Project No.KTP11692](https://info.ktponline.org.uk/action/details/partnership.aspx?id=11692) (Apr. 2022 -- Sept. 2022)
+* Software Research Engineer (KTP Associate) - [Project No.KTP11692](https://www.nottingham.ac.uk/research/groups/col/projects/hyper-heuristics-for-routing.aspx) (Apr. 2022 -- Sept. 2022)
   * University of Nottingham, Nottingham, UK
   * Duties included: To develop and implement novel and advanced, hyper-heuristics based routing technologies for standard and non-standard haulage markets.
   * Supervisor: Professor [Ender Ozcan](http://www.cs.nott.ac.uk/~pszeo/) (University of Nottingham)
@@ -73,7 +73,7 @@ Reviewer for
 
 Membership
 ----
-- Member of Diversity & Inclusion sub-committee at IEEE Computational Intelligence Society, since January 2024.
+- Member of Diversity & Inclusion sub-committee at IEEE Computational Intelligence Society, 2024.
 - Member of IEEE Taskforce on [Evolutionary Scheduling and Combinatorial Optimisation (ESCO)](https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/) at IEEE Computational Intelligence Society, since October 2023.
 - Member of IEEE Taskforce on [Automated Algorithm Design, Configuration and Selection (AADCS)](https://sites.google.com/view/ieeeaadcs) at IEEE Computational Intelligence Society, since July 2023.
 - Member of Association for Computing Machinery (ACM) SIGEVO, since July 2022.
