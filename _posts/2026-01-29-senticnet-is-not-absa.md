@@ -1,12 +1,3 @@
-<!-- ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
-tags:
-  - cool posts
-  - category1
-  - category2
---- -->
 ---
 title: "SenticNet Is Not Aspect-Based Sentiment Analysis"
 collection: posts
@@ -95,12 +86,12 @@ but it has no knowledge of *battery life* as an aspect in this sentence.
 
 A correct pipeline looks like this:
 
-"""bash
+```bash
 Sentence
 → concept / aspect extraction
 → aspect–sentiment linking
 → SenticNet (affective enrichment)
-"""
+```
 
 
 SenticNet should be treated as a **knowledge source**, not an analyzer.
