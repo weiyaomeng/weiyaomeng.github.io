@@ -46,5 +46,6 @@ Committee Chair & Membership
 
 Event Organisation
 ----
+- Organiser of the [ML4VRP Competition](https://sites.google.com/view/ml4vrp?pli=1) of [The Genetic and Evolutionary Computation Conference(GECCO’2026)](https://gecco-2026.sigevo.org/Competition?itemId=8265), San José, Costa Rica, July 13 - 17, 2026.
 - Organiser of the [ML4VRP Competition](https://sites.google.com/view/ml4vrp?pli=1) of [The Genetic and Evolutionary Computation Conference(GECCO’2024)](https://gecco-2024.sigevo.org/Competitions) , Melbourne, Australia, July 14th-18th, 2024. 
 - Organiser of the [ML4VRP Competition](https://sites.google.com/view/ml4vrp?pli=1) of [The Genetic and Evolutionary Computation Conference(GECCO’2023)](https://gecco-2023.sigevo.org/HomePage) , Lisbon, Portugal, July 15th-19th, 2023.
