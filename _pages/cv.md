@@ -19,10 +19,12 @@ Qualifications
 
 Employment
 ======
+* Machine Learning Engineer - [Arcaidium, Ltd](https://arcaidium.net/) (June 2026 -- Present)
+
 * Research Fellow - [Pharmacy First Evaluation](https://www.lshtm.ac.uk/research/centres-projects-groups/pharmacy-first-evaluation) (Oct 2025 -- Present)
   * Supervsiors: Professor James Goulding (University of Nottingham)
   
-* Data Scientist (KTP Associate) - [Project No.KTP13737](https://www.nottingham.ac.uk/news/strategic-innovation-n-lab) (May 2024 -- Present)
+* Data Scientist (KTP Associate) - [Project No.KTP13737](https://www.nottingham.ac.uk/news/strategic-innovation-n-lab) (May 2024 -- June 2026)
   * Knowledge Base Partner: Business School, University of Nottingham, Nottingham, UK
   * Company Partner: [Strategic Innovation Limited](https://strategic-innovation.co.uk/), Cambridge, UK
   * Project lead: Dr John Harvey (University of Nottingham)
@@ -66,10 +68,10 @@ Reviewer for
 - IEEE Transactions on Evolutionary Computation
 - Journal of the Operational Research Society
 - PeerJ Computer Science
-- Pacific Rim International Conference on Artificial Intelligence (PRICAI'2025)
-- IEEE Symposium Series on Computational Intelligence (SSCI'2025)
-- IEEE Congress on Evolutionary Computation (CEC) (CEC'2024, 2025)
-- The Genetic and Evolutionary Computation Conference(GECCO’2023-2025)
+- Pacific Rim International Conference on Artificial Intelligence (PRICAI'2025-2026)
+- IEEE Symposium Series on Computational Intelligence (SSCI'2025, 2027)
+- IEEE Congress on Evolutionary Computation (CEC) (CEC'2024-2026)
+- The Genetic and Evolutionary Computation Conference(GECCO’2023-2026)
 
 Membership
 ----
@@ -83,19 +85,21 @@ Membership
 Committee Chair & Membership
 ----
 - Publicity Chair of IEEE WCCI-CEC (CEC'2026), June 21 – 26, 2026, Maastricht, Netherlands.
-- Member of the Programme Committee of Pacific Rim International Conference on Artificial Intelligence (PRICAI'2025), November 17–21, 2025, Wellington, New Zealand.
-- Member of the Programme Committee of IEEE Symposium on Computational Intelligence (SSCI'2025) for Energy, Transport and Environmental Sustainability, March 17-20, 2025, Trondheim, Norway.
 - Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2025), June 8-12, 2025, Hangzhou, China.
 - Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2024), June 30-July 5, 2024, Yokohama, Japan.
+- Member of the Programme Committee of Pacific Rim International Conference on Artificial Intelligence (PRICAI'2026), November 17–20, 2026, Guangzhou, China.
+- Member of the Programme Committee of Pacific Rim International Conference on Artificial Intelligence (PRICAI'2025), November 17–21, 2025, Wellington, New Zealand.
+- Member of the Programme Committee of IEEE Symposium on Computational Intelligence (SSCI'2027) for Energy, Transport and Environmental Sustainability, February 14-17, 2027, Queensland, Australia.
+- Member of the Programme Committee of IEEE Symposium on Computational Intelligence (SSCI'2025) for Energy, Transport and Environmental Sustainability, March 17-20, 2025, Trondheim, Norway.
+- Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO'2026), July 13-17, 2026, San José, Costa Rica.
 - Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO'2025), July 14-18, 2025, Málaga, Spain.
-- Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO-2024), July 14-18, 2024, Melbourne, Australia. 
-- Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO-2023), July 15-19, 2023, Lisbon, Portugal.
+- Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO'2024), July 14-18, 2024, Melbourne, Australia. 
+- Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO'2023), July 15-19, 2023, Lisbon, Portugal.
 
 Conferences / Event Organisation
 ----
 - Co-admin and Instructor of the Heuristic Optimisation and Learning [NATCOR](https://www.natcor.ac.uk/courses/) course, University of Nottingham, Nottingham, UK, 8-12 April 2024.
-- Organiser of the [ML4VRP Competition](https://sites.google.com/view/ml4vrp?pli=1) of [The Genetic and Evolutionary Computation Conference(GECCO’2024)](https://gecco-2024.sigevo.org/Competitions) , Melbourne, Australia, July 14th-18th, 2024. 
-- Organiser of the [ML4VRP Competition](https://sites.google.com/view/ml4vrp?pli=1) of [The Genetic and Evolutionary Computation Conference(GECCO’2023)](https://gecco-2023.sigevo.org/HomePage) , Lisbon, Portugal, July 15th-19th, 2023.
+- Organiser of the [ML4VRP Competition](https://sites.google.com/view/ml4vrp?pli=1) at [The Genetic and Evolutionary Computation Conference(GECCO’2023)](https://gecco-2023.sigevo.org/HomePage), [GECCO’2024](https://gecco-2024.sigevo.org/Competitions) and [GECCO’2026](https://gecco-2026.sigevo.org/Competitions) 
 
 Honors and Awards
 ======

@@ -10,7 +10,7 @@ author_profile: true
 Email
 ----
 - Weiyao.Meng2@nottingham.ac.uk
-- W.Meng@strategic-innovation.co.uk
+- Weiyao.Meng@Arcaidium.com
   
 Office
 ----

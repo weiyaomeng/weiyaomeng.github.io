@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Fellow with the [N/Lab](https://www.nlab.org.uk/) in the Nottingham University Business School and a Data Scientist (KTP Associate) with [Strategic Innovation Limited](https://strategic-innovation.co.uk/). My research interests focus on using AI techniques to support decision-making in sustainable development, particularly in domains such as sustainable transport, energy and food systems.
+I am currently a Researcher in Health Data Science at [N/Lab](https://www.nlab.org.uk/), Nottingham University Business School, and a Machine Learning Engineer at Arcaidium Ltd, UK. My work focuses on applying AI, machine learning and natural language processing techniques to support data-driven decision-making in healthcare, business and sustainable development, particularly in domains such as sustainable transport, energy and food systems.
 
 Area of interests
 ----
@@ -16,7 +16,7 @@ What I work with: Hyper-heuristics, Evolutionary Computation, Machine Learning, 
 
 Problems I am interested in: AI-driven decision support systems for the automation of complex computational tasks and workflows that helps humans or agents make better decisions.
 
-Early interest, currently exploring: Agentic AI for Metascience, i.e., using autonomous AI systems to accelerate scientific discovery, automate research workflows and improve reproducibility.
+Currently exploring: Agentic AI for Metascience, i.e., using autonomous AI systems to accelerate scientific discovery, automate research workflows and improve reproducibility.
 
 > Quick links to Machine Learning Assisted Evolutionary Computation for Vehicle Routing Problems (ML4VRP)
 - [Competition webpage](https://gecco-2026.sigevo.org/Competition?itemId=8265) for GECCO’2026
