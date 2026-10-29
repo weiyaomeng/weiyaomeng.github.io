@@ -84,17 +84,21 @@ Membership
 
 Committee Chair & Membership
 ----
-- Publicity Chair of IEEE WCCI-CEC (CEC'2026), June 21 – 26, 2026, Maastricht, Netherlands.
-- Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2025), June 8-12, 2025, Hangzhou, China.
-- Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2024), June 30-July 5, 2024, Yokohama, Japan.
-- Member of the Programme Committee of Pacific Rim International Conference on Artificial Intelligence (PRICAI'2026), November 17–20, 2026, Guangzhou, China.
-- Member of the Programme Committee of Pacific Rim International Conference on Artificial Intelligence (PRICAI'2025), November 17–21, 2025, Wellington, New Zealand.
-- Member of the Programme Committee of IEEE Symposium on Computational Intelligence (SSCI'2027) for Energy, Transport and Environmental Sustainability, February 14-17, 2027, Queensland, Australia.
-- Member of the Programme Committee of IEEE Symposium on Computational Intelligence (SSCI'2025) for Energy, Transport and Environmental Sustainability, March 17-20, 2025, Trondheim, Norway.
+- Social Media Chair of the Genetic and Evolutionary Computation Conference (GECCO'2027), July 12-16, 2027, Kraków, Poland. 
 - Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO'2026), July 13-17, 2026, San José, Costa Rica.
 - Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO'2025), July 14-18, 2025, Málaga, Spain.
 - Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO'2024), July 14-18, 2024, Melbourne, Australia. 
 - Member of the Programme Committee of the Genetic and Evolutionary Computation Conference (GECCO'2023), July 15-19, 2023, Lisbon, Portugal.
+  
+- Publicity Chair of IEEE WCCI-CEC (CEC'2026), June 21 – 26, 2026, Maastricht, Netherlands.
+- Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2025), June 8-12, 2025, Hangzhou, China.
+- Member of the Programme Committee of IEEE Congress on Evolutionary Computation (CEC) (CEC'2024), June 30-July 5, 2024, Yokohama, Japan.
+  
+- Member of the Programme Committee of Pacific Rim International Conference on Artificial Intelligence (PRICAI'2026), November 17–20, 2026, Guangzhou, China.
+- Member of the Programme Committee of Pacific Rim International Conference on Artificial Intelligence (PRICAI'2025), November 17–21, 2025, Wellington, New Zealand.
+  
+- Member of the Programme Committee of IEEE Symposium on Computational Intelligence (SSCI'2027) for Energy, Transport and Environmental Sustainability, February 14-17, 2027, Queensland, Australia.
+- Member of the Programme Committee of IEEE Symposium on Computational Intelligence (SSCI'2025) for Energy, Transport and Environmental Sustainability, March 17-20, 2025, Trondheim, Norway.
 
 Conferences / Event Organisation
 ----
